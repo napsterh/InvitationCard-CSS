@@ -1,0 +1,19 @@
+- fp = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/39132/'
+
+mixin front()
+	h1
+		img(src=fp + 'poke-logo.svg')
+		span.extrude Invitation Card
+
+mixin back()
+	img(src=fp + "poke-peeps.png")
+	
+.invitation
+	.envelope
+		.mask: .card
+			.face.front
+				+front()
+			.face.back
+				+back()
+	.flap
+	button Click para ver!
