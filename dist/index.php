@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Invitation E-Card</title>
+  <title>Invitación Lourdes & Giancarlo</title>
   <link href="https://fonts.googleapis.com/css?family=Baloo" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <link rel="stylesheet" href="./style.css">
